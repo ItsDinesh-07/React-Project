@@ -7,7 +7,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./image.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/ItsDinesh-07/React-Project/main/screenshots/dashboard.png)
 
 ---
 
@@ -102,6 +102,7 @@ React-Project/
 │   ├── App.tsx             # Main app component
 │   └── main.tsx            # Entry point
 ├── public/                 # Static assets
+├── screenshots/            # Project screenshots
 ├── index.html              # HTML template
 ├── package.json            # Dependencies
 ├── tsconfig.json           # TypeScript config
