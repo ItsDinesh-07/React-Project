@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Preparation Platform",
+  "description": "An interactive LMS and AI interview preparation platform featuring resume analysis, mock interviews, and tailored category practice with dynamic automated questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

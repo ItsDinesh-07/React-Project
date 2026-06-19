@@ -1,0 +1,32 @@
+AI Interview Preparation Platform - Fixed Version
+
+IMPORTANT:
+This project is TypeScript React. Do NOT rename .tsx files to .jsx.
+Keep files as .tsx and .ts.
+
+How to run:
+1. Open this project folder in VS Code.
+2. Open terminal in the project ROOT folder, not inside src.
+3. Run:
+   npm install
+   npm run dev
+4. Open:
+   http://localhost:3000
+
+If you only want frontend without backend AI API:
+   npm run client
+   http://localhost:5173
+
+Gemini API key:
+1. Copy .env.example to .env
+2. Add your key:
+   GEMINI_API_KEY=your_api_key_here
+3. Run npm run dev again.
+
+If you see "tsx is not recognized":
+Run npm install first. The tsx package is already included in devDependencies.
+
+This fixed zip was tested with:
+- npm install
+- npm run lint
+- npm run build
